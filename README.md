@@ -2,7 +2,7 @@
 
 ### My name is Daniil
 
-[Its my favorite color]([https://en.wikipedia.org/wiki/Purple.com](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Purple_website.svg/1280px-Purple_website.svg.png))
+![Its my favorite color]([https://en.wikipedia.org/wiki/Purple.com](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Purple_website.svg/1280px-Purple_website.svg.png))
 
 **I learn JS,*** this is example of my project*
 
