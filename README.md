@@ -2,22 +2,18 @@
 
 ![Its my favorite color](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAAA1BMVEV9Js3dWPvwAAAASElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC3AcUIAAFkqh/QAAAAAElFTkSuQmCC)
 
-## This is an h2 tag
-###### This is an h6 tag
-
-**This text will be bold**
-*This text will be italic*
-
-This is Unordered list:
-* Item 1
-* Item 2
-  * Item 2a
+**I learn JS***This is example of my project*
 
 ```javascript
 
-let str = 'this is JS code';
+let one = 1;
+
+id(one == 1){
+ let two = 2;
+}
 
 ```
+Also this is Unordered list:
 
-[this is link](http://github.com)
-
+* [discord](http://github.com)
+* [Telegram](http://github.com)
