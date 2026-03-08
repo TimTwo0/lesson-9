@@ -2,7 +2,7 @@
 
 ### My name is Daniil
 
-![Its my favorite color](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAAA1BMVEV9Js3dWPvwAAAASElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC3AcUIAAFkqh/QAAAAAElFTkSuQmCC)
+[Its my favorite color](https://en.wikipedia.org/wiki/Purple.com)
 
 **I learn JS,*** this is example of my project*
 
